@@ -8,6 +8,9 @@ Desenvolver um aplicativo mobile de gestão de imóveis utilizando React Native 
 
 **Endpoint:** `https://portly-drafty-pondskater.gigalixirapp.com/graphql`
 
+## Design
+
+**Endpoint:** `[https://portly-drafty-pondskater.gigalixirapp.com/graphql](https://www.figma.com/design/V8l1xhuW8aypaWGtw5v0ny/WELCOME--Copy-?m=auto&t=vm2CdRE5odZ0hOMM-1)`
 
 ### Schema GraphQL
 
